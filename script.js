@@ -8,12 +8,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const cardArray = [
         { name: 'card1', img: 'images/amazon-s3.jpg' },
         { name: 'card1', img: 'images/amazon-s3.jpg' },
-        { name: 'card2', img: 'images/cloudfront.jpg' },
-        { name: 'card2', img: 'images/cloudfront.jpg' },
+        { name: 'card2', img: 'images/pipeline.jpg' },
+        { name: 'card2', img: 'images/pipeline.jpg' },
         { name: 'card3', img: 'images/dynamo.jpg' },
         { name: 'card3', img: 'images/dynamo.jpg' },
-        { name: 'card4', img: 'images/IAM.jpg' },
-        { name: 'card4', img: 'images/IAM.jpg' },
+        { name: 'card4', img: 'images/EC2.jpg' },
+        { name: 'card4', img: 'images/EC2.jpg' },
         { name: 'card5', img: 'images/lambda.jpg' },
         { name: 'card5', img: 'images/lambda.jpg' },
         // ...add more pairs as needed
